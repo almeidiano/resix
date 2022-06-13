@@ -9,12 +9,12 @@
 - [x] Fetch API
 - [x] Confetti
 
-## :camera: Imagens do projeto (Alguns criados via Figma)
+## 💻 Imagens do projeto (Alguns criados via Figma)
 <img src="./src/screenshots/home.png" alt="Página Home" />
 <img src="./src/screenshots/launch.png" alt="Página de lançamento" />
 <img src="./src/screenshots/launched.png" alt="Página final" />
 
-## 💻 Fontes
+## :books: Fontes
 
 Algumas fontes (videoaulas, tutoriais e documentações) ultilizadas para a criação
 * React Crash Course (uma visão geral sobre o react) https://www.youtube.com/watch?v=w7ejDZ8SWv8
