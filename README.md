@@ -1,4 +1,7 @@
-# RESIX
+<p align="center">
+  <img src='./src/white_resix_black_bg.png' alt="main_logo" /> <br/>
+  <h1 align="center">RESIX</h1>
+</p>
 
 > Primeiro app em react! Projeto criado com a finalidade de lançar fogos de artifício para o Nodemcu (Demostração de vídeo em breve) 
 
