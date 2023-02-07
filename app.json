@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "resix",
+    "name": "Resix",
     "slug": "resix",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -18,16 +18,23 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "br.com.samuelalmeidadev.resix"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#000000"
+      },
+      "package": "br.com.samuelalmeidadev.resix"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "afc9a953-0805-49ac-bbdc-395d9d116ad0"
+      }
     }
   }
 }
