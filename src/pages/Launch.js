@@ -31,7 +31,7 @@ export default function Launch({route, navigation}) {
 
   const fetchUrl = async (value) => {
     if(!value) {
-      setInputError(true)
+      setInputError(true);
     }else{
       setBtnLoading(true);
       
