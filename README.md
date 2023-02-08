@@ -2,9 +2,16 @@
 
 <img src="https://a.pomf.cat/rgdtzn.png" height="250" />
 
-## About Resix
+> Launch fireworks with nodemcu ESP8266 module "anywhere in the world" with WiFi connection.
 
-The idea of the project is to launch fireworks with nodemcu ESP8266 module "anywhere in the world" with WiFi connection.
+## Preview
+
+<p float="left">
+<img src="https://a.pomf.cat/oqofbv.png" height="490" />
+<img src="https://a.pomf.cat/aurqfw.png" height="490" />
+<img src="https://a.pomf.cat/zmpzia.png" height="490" />
+<img src="https://a.pomf.cat/jknkoj.png" height="490" />
+</p>
 
 ## Why?
 
