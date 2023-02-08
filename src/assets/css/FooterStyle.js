@@ -17,6 +17,12 @@ const styles = StyleSheet.create({
         resizeMode: 'contain',
         top: 4,
         paddingLeft: 3
+    },
+    version: {
+        color: '#e8f1f2', 
+        position: 'absolute', 
+        right: 0, 
+        bottom: 0
     }
 })
 

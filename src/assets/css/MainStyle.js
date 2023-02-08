@@ -52,8 +52,7 @@ const styles = StyleSheet.create({
     textInput: {
       width: '95%', 
       backgroundColor: '#1d84b5', 
-      placeholder: '#e8f1f2', 
-      marginBottom: 10
+      placeholder: '#e8f1f2'
     },
     launchBtnArea: {
       display: 'flex', 
@@ -67,6 +66,11 @@ const styles = StyleSheet.create({
       display: 'flex', 
       flexDirection: 'row', 
       alignItems: 'center'
+    },
+    helperInputText: {
+      width: '100%',
+      position: 'relative',
+      top: 3
     }
 });
 

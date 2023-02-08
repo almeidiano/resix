@@ -28,7 +28,6 @@ export default function LaunchBtns({navigation}) {
         for(let i = 1; i < 9; i++) {
             // Creating state to single element being pushed to button array
             const [isSwitchOn, setIsSwitchOn] = useState(false);
-            const [visible, setVisible] = useState(false);
 
             buttons.push(
                 <View key={i} style={styles.launchBtnArea}>
