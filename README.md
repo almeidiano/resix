@@ -33,7 +33,7 @@ It's free!
 
 If you want to test the App in the Production mode, the installer is listed below:
 
-[Android .apk installer](https://resix.samuelalmeidadev.com.br/application-adbd89f9-7dcd-48a0-a1d1-0b6ae0841029.apk)
+[Android .apk installer](https://resix.samuelalmeidadev.com.br/app.apk)
 
 ## Getting Started
 
