@@ -1,3 +1,7 @@
+## WARNING (PLEASE, READ THIS BEFORE ANY TYPE OF USAGE OF THIS PROJECT)
+
+The use of this project is at your own risk. The developer and owner of this app make no representations or warranties of any kind about the bad usage contained in the app or the source code for any purpose. The user who is using the app or changing the source code for any purpose will be responsible, whatsoever arising out of bad use. Any reliance you place on such this usage is therefore strictly at your own risk.
+
 # Resix
 
 <img src="https://a.pomf.cat/rgdtzn.png" height="250" />
