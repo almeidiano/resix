@@ -37,7 +37,10 @@
 
 ## About
 
-Resix is a React-Native project created to launch fireworks with NodeMCU module and WiFi connection. The NodeMCU device setting and representation to this purpose it's being created soon as possible, remenbering that <b>there's no functionality of real fireworks launch, the purpose of this project <i>at this moment</i> is only for UI matters.</b>
+Resix is a IoT project created to launch fireworks with NodeMCU module and WiFi connection to anywhere with just WiFi connection.
+
+## Observation
+<b>There's no functionality of real fireworks launch, the purpose of this project <i>at this moment</i> is only for UI matters.</b>
 
 ## Getting Started
 
